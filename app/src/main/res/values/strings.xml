@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Asistensi1Dan2Tahap1</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="simple_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="title_now_playing">Now Playing</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_profile">Profile</string>
+    <string name="content">Saya La Saiman, mahasiswa Fakultas ilmu komputer Universitas Muslim Indonesia angkatan 2017</string>
+
+    <string name="synopsisTrollsWorldTour">
+        Mulai Kamis, 14 Februari 2008 pukul 19:30 WIB, Lativi secara resmi berganti nama menjadi tvOne. Kepastian peresmian nama baru ini disampaikan Direktur utama dari tvOne, Erick Thohir, dalam jumpa pers Rabu, 13 Februari 2008. Perubahan nama ini adalah upaya strategi manajemen untuk memberikan sesuatu yang berbeda di industri pertelevisian Indonesia. Peresmian tvOne akan dilaksanakan di Plenary Hall, Gedungan Jakarta Convention Center, dan ditayangkan secara langsung di tvOne mulai pukul 19:30 WIB. Peresmian tvOne juga dilakukan oleh Presiden Republik Indonesia, Susilo Bambang Yudhoyono.
+    </string>
+</resources>
